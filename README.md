@@ -1,7 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
-JavaUbuntuSimpleApp
-===================
+JavaUbuntuSimpleApp for testing simple projects
 
 A simple java app with a distelli-spec.yml file that describes how this app should be deployed using Distelli.
 
